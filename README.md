@@ -3,5 +3,5 @@
 This is the repo of programming lab for EE326 @ KAIST 2021 Spring. 
 
 The repo is divided into two parts:
-- Huffman Code (Source Coding)
+- LZ77 Code (Source Coding)
 - Hamming Code (Channel Coding)
